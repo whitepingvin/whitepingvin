@@ -4,6 +4,13 @@
 
 - 📫 Связаться со мной можно: <a href='https://vk.com/vicktorsuver' title='ВКонтакте' target='_blank'>VK</a> и <a href='https://t.me/suvernet' title='Телеграм' target='_blank'>Telegram</a>...
 
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=whitepingvin&theme=white&background=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 
